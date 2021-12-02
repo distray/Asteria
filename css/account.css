@@ -9,6 +9,7 @@
     background-position: center;
     background-size: cover;
     position: absolute;
+    overflow: hidden;
 }
 .form-box{
     width: 380px;
